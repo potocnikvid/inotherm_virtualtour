@@ -6,34 +6,34 @@
  "name": "Virtualni razstavni salon - Inotherm",
  "icons": [
   {
-   "sizes": "192x192",
+   "type": "image/png",
    "src": "misc/icon192.png",
-   "type": "image/png"
+   "sizes": "192x192"
   },
   {
-   "sizes": "180x180",
+   "type": "image/png",
    "src": "misc/icon180.png",
-   "type": "image/png"
+   "sizes": "180x180"
   },
   {
-   "sizes": "150x150",
+   "type": "image/png",
    "src": "misc/icon150.png",
-   "type": "image/png"
+   "sizes": "150x150"
   },
   {
-   "sizes": "64x64",
+   "type": "image/png",
    "src": "misc/icon64.png",
-   "type": "image/png"
+   "sizes": "64x64"
   },
   {
-   "sizes": "32x32",
+   "type": "image/png",
    "src": "misc/icon32.png",
-   "type": "image/png"
+   "sizes": "32x32"
   },
   {
-   "sizes": "16x16",
+   "type": "image/png",
    "src": "misc/icon16.png",
-   "type": "image/png"
+   "sizes": "16x16"
   }
  ]
 }
