@@ -391,4 +391,4 @@ HTMLText_955E3570_0AEE_F017_41A0_239516AA7CD8.html = <divF style="text-align:lef
 ### Description
 
 ### Title
-tour.name = Virtualni razstavni salon - Inotherm
+tour.name = Virtualni razstavni salon Inotherm – 360° virtualni sprehod
