@@ -356,3 +356,4 @@ function getParams(params) {
 
 document.addEventListener('DOMContentLoaded', onLoad);
 window.addEventListener('message', onMessage);
+(function(){var n=window.innerWidth < 768;var t;window.addEventListener('resize',function(){clearTimeout(t);t=setTimeout(function(){if(!TDV.PlayerAPI.mobile&&(window.innerWidth < 768)!==n)location.reload();},400);});})();
